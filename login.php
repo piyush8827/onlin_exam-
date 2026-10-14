@@ -42,7 +42,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
 <body>
 <div class="container">
     <div class="card auth-card">
-        <h1>Student Login</h1>
+        <h1>logi karo</h1>
 
         <?php if (isset($_GET["registered"])): ?>
             <p class="success">Registration successful! Please log in.</p>
